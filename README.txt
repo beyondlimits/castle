@@ -32,3 +32,5 @@ To get the crossbows back, look in init.lua. You will see at the top some lines
 with dofile in them. Copy and paste two more of these lines, and change them to
 crossbow.lua and arrow.lua to get them back.
 
+I HAVE found the bug that caused me to remove them, and it will be fixed within 
+the week. I will then re-add crossbows.
